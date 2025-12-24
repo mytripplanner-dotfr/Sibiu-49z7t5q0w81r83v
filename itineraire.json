@@ -1,0 +1,130 @@
+{
+  "pays": "Roumanie",
+  "drapeau": "🇷🇴",
+  "symbole": "🏰",
+  "titre": "Escapade relaxante à Sibiu, la perle de Transylvanie",
+  "budget_total": "700€",
+  "duree": "2 jours",
+  "temps_vol": "4h35 (depuis Paris, france)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion douce dans le Vieux Sibiu",
+      "legende": "Après le voyage, installez-vous confortablement et laissez-vous charmer par l'atmosphère paisible du centre historique de Sibiu, idéal pour une première approche relaxante.",
+      "lieu": "Sibiu",
+      "activites": [
+        "<strong>🛬 Arrivée à Sibiu</strong>: Atterrissage à l'aéroport international de Sibiu (SBZ) et transfert vers votre hébergement au cœur de la ville.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Check-in dans un hôtel 3 étoiles et moment de détente pour se rafraîchir après le vol.",
+        "<strong>🚶‍♀️ Balade relaxante dans la Grande Place (Piața Mare)</strong>: Flânez sur la place principale, admirez l'architecture baroque et imprégnez-vous de l'ambiance locale, sans hâte.",
+        "<strong>☕ Pause café et douceurs locales</strong>: Profitez d'un café ou d'un thé dans l'un des charmants cafés de la Petite Place (Piața Mică) pour une pause gourmande."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "L'aéroport de Sibiu est à environ 15-20 minutes du centre-ville en taxi ou bus. Prévoyez environ 30-40 RON (6-8€) pour un taxi."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Détente et découverte culturelle sereine",
+      "legende": "Cette journée est dédiée à la découverte des trésors cachés de Sibiu et à des moments de pure relaxation, loin de l'agitation, avec une touche de bien-être.",
+      "lieu": "Sibiu",
+      "activites": [
+        "<strong>🏛️ Visite du Musée National Brukenthal</strong>: Explorez ce magnifique musée d'art baroque, l'un des plus anciens de Roumanie, à votre rythme pour une immersion culturelle douce.",
+        "<strong>🌳 Promenade dans le Parc Sub Arini</strong>: Profitez d'une longue balade apaisante dans ce grand parc verdoyant, idéal pour se ressourcer et admirer la nature.",
+        "<strong>🧖‍♀️ Détente aux thermes de Ocna Sibiului (optionnel)</strong>: Si le temps le permet, offrez-vous une escapade relaxante aux lacs salés et thermes de Ocna Sibiului, à quelques kilomètres de Sibiu, réputés pour leurs propriétés curatives. (Alternative si pas de transport: massage en ville)"
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Ocna Sibiului",
+          "texte": "Les thermes sont accessibles en bus local ou en taxi. Vérifiez les horaires et la disponibilité des traitements à l'avance pour une expérience optimale."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 406 €/pers",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "25 €/pers",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "90 €/pers",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "140 €/pers",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "30 €/pers",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Mai à Septembre",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La monnaie locale est le Leu Roumain (RON). 1€ ≈ 4.97 RON. Les cartes bancaires sont largement acceptées.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Le roumain est la langue officielle. L'anglais est parlé dans les zones touristiques. Quelques mots de roumain seront appréciés.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Sibiu est une ville sûre. Restez vigilant comme dans toute destination touristique.",
+      "symbole": "✅"
+    },
+    {
+      "titre": "Le climat est continental. En mai, attendez-vous à des températures douces (10-20°C) mais prévoyez une veste légère et un parapluie.",
+      "symbole": "🌦️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/CDG-SBZ/2026-05-15/2026-05-17",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Roumanie",
+      "url": "https://romaniatourism.com/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo Sibiu",
+      "url": "https://www.accuweather.com/fr/ro/sibiu/287040/weather-forecast/287040",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Transports locaux",
+      "titre": "Tursib (Bus Sibiu)",
+      "url": "https://tursib.ro/",
+      "symbole": "🚌"
+    }
+  ]
+}
